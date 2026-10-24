@@ -1,4 +1,4 @@
-# 👋 Welcome to DertInfo
+# 👋 Welcome to DertInfo-Org
 
 Thank you for visiting the DertInfo GitHub organisation and for your interest in the software that supports the annual **Dancing England Rapper Tournament (DERT)**.
 
